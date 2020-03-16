@@ -1,30 +1,19 @@
 ﻿@page
-    <div class="container">
-        <div class="row">&nbsp;</div>
-        <div class="row">
-            <div class="col-2">Usuario</div>
-            <div class="col-4"><input type="text" id="userInput" /></div>
-        </div>
-        <div class="row">
-            <div class="col-2">Mensaje</div>
-            <div class="col-4"><input type="text" id="messageInput" /></div>
-        </div>
-        <div class="row">&nbsp;</div>
-        <div class="row">
-            <div class="col-6">
-                <input type="button" id="sendButton" value="Enviar" />
-            </div>
-        </div>
+@{
+    ViewBag.Title = "Log";
+}
+<div class="row">
+    <div class="col-12" style="margin:0 auto; padding:50px 100px;">
+        <table class="table table-dark table-hover" style="text-align :center; border-radius:3px;">
+            <thead>
+                <tr>
+                    <td scope="col">ID proceso</td>
+                    <td scope="col">Fecha de terminación</td>
+                </tr>
+            </thead>
+            <tbody id="contenido"></tbody>
+        </table>
     </div>
-    <div class="row">
-        <div class="col-12">
-            <hr />
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-6">
-            <ul id="messagesList"></ul>
-        </div>
-    </div>
+</div>
 <script src="~/lib/signalr/signalr.js"></script>
-<script src="~/js/chat.js"></script>
+<script src="~/js/log.js"></script>

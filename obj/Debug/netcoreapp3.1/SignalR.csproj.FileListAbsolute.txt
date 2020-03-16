@@ -12,7 +12,6 @@ C:\Users\pruebastemp1\Desktop\SignalR\bin\Debug\netcoreapp3.1\SignalR.pdb
 C:\Users\pruebastemp1\Desktop\SignalR\bin\Debug\netcoreapp3.1\SignalR.Views.dll
 C:\Users\pruebastemp1\Desktop\SignalR\bin\Debug\netcoreapp3.1\SignalR.Views.pdb
 C:\Users\pruebastemp1\Desktop\SignalR\obj\Debug\netcoreapp3.1\SignalR.csprojAssemblyReference.cache
-C:\Users\pruebastemp1\Desktop\SignalR\obj\Debug\netcoreapp3.1\SignalR.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\pruebastemp1\Desktop\SignalR\obj\Debug\netcoreapp3.1\SignalR.RazorAssemblyInfo.cache
 C:\Users\pruebastemp1\Desktop\SignalR\obj\Debug\netcoreapp3.1\SignalR.RazorAssemblyInfo.cs
 C:\Users\pruebastemp1\Desktop\SignalR\obj\Debug\netcoreapp3.1\SignalR.AssemblyInfoInputs.cache
@@ -22,7 +21,6 @@ C:\Users\pruebastemp1\Desktop\SignalR\obj\Debug\netcoreapp3.1\SignalR.TagHelpers
 C:\Users\pruebastemp1\Desktop\SignalR\obj\Debug\netcoreapp3.1\SignalR.RazorCoreGenerate.cache
 C:\Users\pruebastemp1\Desktop\SignalR\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 C:\Users\pruebastemp1\Desktop\SignalR\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\pruebastemp1\Desktop\SignalR\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\pruebastemp1\Desktop\SignalR\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\pruebastemp1\Desktop\SignalR\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\pruebastemp1\Desktop\SignalR\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
